@@ -22,7 +22,6 @@
     <list default="true" id="a2567dae-aa4e-4398-8d8f-6d3aae7bb4ce" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/recipe/tests/test_recipe_api.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/recipe/tests/test_recipe_api.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/recipe/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/recipe/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,9 +87,9 @@
       <screen x="0" y="23" width="1680" height="961" />
     </state>
     <state x="341" y="142" key="SettingsEditor/0.-1027.1680.1027/0.23.1680.961@0.23.1680.961" timestamp="1589306118940" />
-    <state x="505" y="234" width="670" height="676" key="search.everywhere.popup" timestamp="1589624277743">
+    <state x="505" y="234" width="670" height="676" key="search.everywhere.popup" timestamp="1589624972380">
       <screen x="0" y="23" width="1680" height="961" />
     </state>
-    <state x="505" y="234" width="670" height="676" key="search.everywhere.popup/0.-1027.1680.1027/0.23.1680.961@0.23.1680.961" timestamp="1589624277743" />
+    <state x="505" y="234" width="670" height="676" key="search.everywhere.popup/0.-1027.1680.1027/0.23.1680.961@0.23.1680.961" timestamp="1589624972380" />
   </component>
 </project>
